@@ -4,9 +4,6 @@ music_genre_env/
 # Python cache
 __pycache__/
 
-# Outputs
-outputs/
-
 # Processed data
 /data/processed/
 
