@@ -1,4 +1,4 @@
-````
+````markdown
 # Music Genre Classification - Exploratory Data Analysis
 
 ## Project Overview
